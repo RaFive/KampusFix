@@ -4,13 +4,13 @@ Sebuah konsep desain aplikasi pelaporan fasilitas kampus yang rusak, dibuat untu
 ## Preview
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/5add90d6-922d-4cde-b415-542199830c53" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4e40f3e2-28b1-466f-a037-a14f07312aad" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/a79b0318-3f4a-4fac-8a43-fdb4a4cd29e6" width="220"/></td>
+    <td><img width="720" height="1600" alt="Untitled-3" src="https://github.com/user-attachments/assets/0dc6c418-c79f-486c-94bf-6d0be02ca516" /></td>
+    <td><img width="720" height="1600" alt="Untitled-4" src="https://github.com/user-attachments/assets/bbe846ff-f6ed-4512-b87f-f0005aee4ca0" /></td>
+    <td><img width="720" height="1600" alt="Untitled-3" src="https://github.com/user-attachments/assets/7c8d83cd-4cc5-4c35-8544-d0519c90d2cb" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/26f64278-20b1-410b-a04c-0b048c4bb965" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/6140d3ab-15ac-4140-aa40-7ca175f73011" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f18ccd9a-6f40-4638-8f33-ace345a4a50f" width="220"/></td>
+    <td><img width="720" height="1600" alt="Untitled-4" src="https://github.com/user-attachments/assets/6082fc98-62b6-44c2-a85b-bf453f87e5c9" /></td>
+    <td><img width="720" height="1600" alt="Untitled-3" src="https://github.com/user-attachments/assets/a35e6862-39cf-4065-8638-4884d145f38a" /></td>
+    <td><img width="720" height="1600" alt="Untitled-4" src="https://github.com/user-attachments/assets/1fb33b9f-0532-498f-90a0-da9a83afe878" /></td>
   </tr>
 </table>
